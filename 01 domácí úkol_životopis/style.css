@@ -1,0 +1,85 @@
+body {
+    color: rgb(70, 70, 70);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+header {
+    background-color: rgb(218, 229, 180);
+    padding: 4px 8px 8px 16px;
+    margin-top: 0;
+    overflow: auto;
+}
+
+header h2 {
+margin: 0;
+}
+
+.hlavicka a {
+    color: rgb(144, 185, 81);
+}
+
+.fotomarketa {
+    width: 200px;
+    padding: 8px 16px 8px 8px;
+    float: left;
+    border-radius: 0 50px 0 50px;
+}
+
+.zkusenosti {
+    background-color: rgb(236, 236, 236);
+    padding: 16px;
+}
+
+.zkusenosti p {
+    margin: 8px 0 0 0;    
+}
+
+.zkusenosti h3 {
+    margin-bottom: 0;
+}
+
+.programy {
+    line-height: 2;
+}
+
+.portfolio{
+    text-align: center;
+}
+
+.portfolio img {
+    width: 250px;
+}
+
+.kresby {
+    font-size: 24px;
+    float: left;
+    padding: 16px;
+    align-items: baseline;
+    overflow: auto;
+}
+
+.grafika {
+    font-size: 24px;
+    text-align: center;
+    float: left;
+    padding: 16px;
+    background-color: rgb(236, 236, 236);
+}
+
+.digital {
+    font-size: 24px;
+    float: left;
+    padding: 16px;
+}
+
+.fotogalerie {
+    font-size: 24px;
+    float: left;
+    padding: 16px;
+    background-color: rgb(236, 236, 236);
+}
